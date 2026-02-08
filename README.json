@@ -18,7 +18,7 @@
             "last_commit": "2026-02-05T10:46:36Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29316
+            "stars": 29318
           }
         },
         {
@@ -31,7 +31,7 @@
             "last_commit": "2026-02-05T10:46:36Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29316
+            "stars": 29318
           }
         },
         {
@@ -44,7 +44,7 @@
             "last_commit": "2026-02-05T10:46:36Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29316
+            "stars": 29318
           }
         },
         {
@@ -197,7 +197,7 @@
             "last_commit": "2026-02-04T10:45:32Z",
             "owner": "bamarni",
             "repo": "composer-bin-plugin",
-            "stars": 521
+            "stars": 522
           }
         },
         {
@@ -249,7 +249,7 @@
             "last_commit": "2026-01-30T01:42:34Z",
             "owner": "cweagans",
             "repo": "composer-patches",
-            "stars": 1675
+            "stars": 1676
           }
         },
         {
@@ -472,7 +472,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-02-06T08:51:07Z",
+            "last_commit": "2026-02-08T01:09:21Z",
             "owner": "Ocramius",
             "repo": "PackageVersions",
             "stars": 3188
@@ -810,7 +810,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-01-31T05:46:35Z",
+            "last_commit": "2026-02-07T08:29:38Z",
             "owner": "move-elevator",
             "repo": "composer-translation-validator",
             "stars": 3
@@ -873,7 +873,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-02-07T04:41:24Z",
+            "last_commit": "2026-02-08T01:59:11Z",
             "owner": "maglnet",
             "repo": "ComposerRequireChecker",
             "stars": 981
@@ -1226,7 +1226,7 @@
             "last_commit": "2022-07-20T13:49:13Z",
             "owner": "Rarst",
             "repo": "release-belt",
-            "stars": 177
+            "stars": 176
           }
         },
         {
@@ -1315,10 +1315,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T07:24:14.388Z",
+    "last_updated": "2026-02-08T04:29:40.797Z",
     "original_repository": "jakoch/awesome-composer",
     "source_repository": "v1nvn/enhansome-composer",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Awesome Composer with stars"
   }
 }
