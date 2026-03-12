@@ -18,7 +18,7 @@
             "last_commit": "2026-03-06T11:33:52Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29338
+            "stars": 29340
           }
         },
         {
@@ -31,7 +31,7 @@
             "last_commit": "2026-03-06T11:33:52Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29338
+            "stars": 29340
           }
         },
         {
@@ -44,7 +44,7 @@
             "last_commit": "2026-03-06T11:33:52Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29338
+            "stars": 29340
           }
         },
         {
@@ -77,7 +77,7 @@
             "last_commit": "2026-02-23T15:15:18Z",
             "owner": "composer",
             "repo": "installers",
-            "stars": 1438
+            "stars": 1439
           }
         }
       ],
@@ -249,7 +249,7 @@
             "last_commit": "2026-02-28T00:13:40Z",
             "owner": "cweagans",
             "repo": "composer-patches",
-            "stars": 1685
+            "stars": 1687
           }
         },
         {
@@ -889,7 +889,7 @@
             "last_commit": "2026-03-09T02:02:31Z",
             "owner": "composer-unused",
             "repo": "composer-unused",
-            "stars": 1657
+            "stars": 1668
           }
         },
         {
@@ -902,7 +902,7 @@
             "last_commit": "2026-03-09T22:36:01Z",
             "owner": "ergebnis",
             "repo": "composer-normalize",
-            "stars": 1104
+            "stars": 1105
           }
         },
         {
@@ -954,7 +954,7 @@
             "last_commit": "2025-12-03T10:22:02Z",
             "owner": "composer",
             "repo": "xdebug-handler",
-            "stars": 2561
+            "stars": 2562
           }
         },
         {
@@ -1276,7 +1276,7 @@
             "last_commit": "2025-05-28T17:32:27Z",
             "owner": "project-satisfy",
             "repo": "satisfy",
-            "stars": 544
+            "stars": 545
           }
         },
         {
@@ -1289,7 +1289,7 @@
             "last_commit": "2019-01-10T12:45:59Z",
             "owner": "realshadow",
             "repo": "satis-control-panel",
-            "stars": 152
+            "stars": 153
           }
         },
         {
@@ -1315,7 +1315,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-11T04:05:17.292Z",
+    "last_updated": "2026-03-12T04:09:22.480Z",
     "original_repository": "jakoch/awesome-composer",
     "source_repository": "v1nvn/enhansome-composer",
     "source_repository_description": null,
