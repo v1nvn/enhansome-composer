@@ -15,10 +15,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-05-07T15:40:46Z",
+            "last_commit": "2026-05-08T15:12:26Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29400
+            "stars": 29401
           }
         },
         {
@@ -28,10 +28,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-05-07T15:40:46Z",
+            "last_commit": "2026-05-08T15:12:26Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29400
+            "stars": 29401
           }
         },
         {
@@ -41,10 +41,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-05-07T15:40:46Z",
+            "last_commit": "2026-05-08T15:12:26Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29400
+            "stars": 29401
           }
         },
         {
@@ -431,7 +431,7 @@
             "last_commit": "2026-05-07T15:41:42Z",
             "owner": "mnsami",
             "repo": "composer-custom-directory-installer",
-            "stars": 139
+            "stars": 140
           }
         },
         {
@@ -670,7 +670,7 @@
             "last_commit": "2023-03-04T08:50:59Z",
             "owner": "slince",
             "repo": "composer-registry-manager",
-            "stars": 559
+            "stars": 558
           }
         },
         {
@@ -876,7 +876,7 @@
             "last_commit": "2026-05-05T01:15:44Z",
             "owner": "maglnet",
             "repo": "ComposerRequireChecker",
-            "stars": 999
+            "stars": 998
           }
         },
         {
@@ -899,10 +899,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-05-06T09:53:40Z",
+            "last_commit": "2026-05-08T09:41:26Z",
             "owner": "ergebnis",
             "repo": "composer-normalize",
-            "stars": 1107
+            "stars": 1106
           }
         },
         {
@@ -1315,7 +1315,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-08T04:50:01.468Z",
+    "last_updated": "2026-05-09T05:17:39.316Z",
     "original_repository": "jakoch/awesome-composer",
     "source_repository": "v1nvn/enhansome-composer",
     "source_repository_description": null,
