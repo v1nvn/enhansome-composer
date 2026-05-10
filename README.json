@@ -18,7 +18,7 @@
             "last_commit": "2026-05-08T15:12:26Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29401
+            "stars": 29400
           }
         },
         {
@@ -31,7 +31,7 @@
             "last_commit": "2026-05-08T15:12:26Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29401
+            "stars": 29400
           }
         },
         {
@@ -44,7 +44,7 @@
             "last_commit": "2026-05-08T15:12:26Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29401
+            "stars": 29400
           }
         },
         {
@@ -810,7 +810,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-05-03T11:00:59Z",
+            "last_commit": "2026-05-09T12:38:53Z",
             "owner": "move-elevator",
             "repo": "composer-translation-validator",
             "stars": 3
@@ -1315,7 +1315,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-09T05:17:39.316Z",
+    "last_updated": "2026-05-10T05:33:04.322Z",
     "original_repository": "jakoch/awesome-composer",
     "source_repository": "v1nvn/enhansome-composer",
     "source_repository_description": null,
