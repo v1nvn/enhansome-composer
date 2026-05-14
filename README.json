@@ -15,10 +15,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-05-12T20:22:52Z",
+            "last_commit": "2026-05-13T09:04:13Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29404
+            "stars": 29414
           }
         },
         {
@@ -28,10 +28,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-05-12T20:22:52Z",
+            "last_commit": "2026-05-13T09:04:13Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29404
+            "stars": 29414
           }
         },
         {
@@ -41,10 +41,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-05-12T20:22:52Z",
+            "last_commit": "2026-05-13T09:04:13Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29404
+            "stars": 29414
           }
         },
         {
@@ -246,7 +246,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-04-15T01:43:56Z",
+            "last_commit": "2026-05-14T01:43:46Z",
             "owner": "cweagans",
             "repo": "composer-patches",
             "stars": 1694
@@ -405,7 +405,7 @@
             "last_commit": "2022-12-03T08:11:28Z",
             "owner": "hirak",
             "repo": "prestissimo",
-            "stars": 6128
+            "stars": 6127
           }
         },
         {
@@ -527,7 +527,7 @@
             "last_commit": "2024-06-22T09:18:12Z",
             "owner": "BrainMaestro",
             "repo": "composer-git-hooks",
-            "stars": 1086
+            "stars": 1087
           }
         },
         {
@@ -810,7 +810,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-05-13T05:35:25Z",
+            "last_commit": "2026-05-13T21:57:56Z",
             "owner": "move-elevator",
             "repo": "composer-translation-validator",
             "stars": 3
@@ -889,7 +889,7 @@
             "last_commit": "2026-04-27T02:02:52Z",
             "owner": "composer-unused",
             "repo": "composer-unused",
-            "stars": 1680
+            "stars": 1679
           }
         },
         {
@@ -899,7 +899,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-05-12T04:12:02Z",
+            "last_commit": "2026-05-13T09:58:33Z",
             "owner": "ergebnis",
             "repo": "composer-normalize",
             "stars": 1106
@@ -954,7 +954,7 @@
             "last_commit": "2026-04-01T11:30:51Z",
             "owner": "composer",
             "repo": "xdebug-handler",
-            "stars": 2560
+            "stars": 2561
           }
         },
         {
@@ -1315,7 +1315,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-13T05:43:48.544Z",
+    "last_updated": "2026-05-14T05:43:08.403Z",
     "original_repository": "jakoch/awesome-composer",
     "source_repository": "v1nvn/enhansome-composer",
     "source_repository_description": null,
