@@ -18,7 +18,7 @@
             "last_commit": "2026-05-14T12:53:46Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29414
+            "stars": 29413
           }
         },
         {
@@ -31,7 +31,7 @@
             "last_commit": "2026-05-14T12:53:46Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29414
+            "stars": 29413
           }
         },
         {
@@ -44,7 +44,7 @@
             "last_commit": "2026-05-14T12:53:46Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29414
+            "stars": 29413
           }
         },
         {
@@ -249,7 +249,7 @@
             "last_commit": "2026-05-14T01:43:46Z",
             "owner": "cweagans",
             "repo": "composer-patches",
-            "stars": 1695
+            "stars": 1696
           }
         },
         {
@@ -693,7 +693,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-04-15T14:44:22Z",
+            "last_commit": "2026-05-16T16:04:23Z",
             "owner": "mcaskill",
             "repo": "composer-plugin-exclude-files",
             "stars": 40
@@ -732,7 +732,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-05-06T19:14:59Z",
+            "last_commit": "2026-05-16T20:12:18Z",
             "owner": "CycloneDX",
             "repo": "cyclonedx-php-composer",
             "stars": 84
@@ -863,7 +863,7 @@
             "last_commit": "2023-10-02T12:33:45Z",
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5358
+            "stars": 5359
           }
         },
         {
@@ -889,7 +889,7 @@
             "last_commit": "2026-04-27T02:02:52Z",
             "owner": "composer-unused",
             "repo": "composer-unused",
-            "stars": 1679
+            "stars": 1680
           }
         },
         {
@@ -1315,7 +1315,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-16T05:22:54.384Z",
+    "last_updated": "2026-05-17T05:43:43.472Z",
     "original_repository": "jakoch/awesome-composer",
     "source_repository": "v1nvn/enhansome-composer",
     "source_repository_description": null,
