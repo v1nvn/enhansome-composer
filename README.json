@@ -18,7 +18,7 @@
             "last_commit": "2026-05-21T19:50:51Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29416
+            "stars": 29417
           }
         },
         {
@@ -31,7 +31,7 @@
             "last_commit": "2026-05-21T19:50:51Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29416
+            "stars": 29417
           }
         },
         {
@@ -44,7 +44,7 @@
             "last_commit": "2026-05-21T19:50:51Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29416
+            "stars": 29417
           }
         },
         {
@@ -77,7 +77,7 @@
             "last_commit": "2026-04-08T17:28:50Z",
             "owner": "composer",
             "repo": "installers",
-            "stars": 1438
+            "stars": 1437
           }
         }
       ],
@@ -444,7 +444,7 @@
             "last_commit": "2026-05-14T07:43:58Z",
             "owner": "shipmonk-rnd",
             "repo": "composer-dependency-analyser",
-            "stars": 615
+            "stars": 616
           }
         },
         {
@@ -873,7 +873,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-05-22T04:38:13Z",
+            "last_commit": "2026-05-24T04:37:32Z",
             "owner": "maglnet",
             "repo": "ComposerRequireChecker",
             "stars": 999
@@ -954,7 +954,7 @@
             "last_commit": "2026-04-01T11:30:51Z",
             "owner": "composer",
             "repo": "xdebug-handler",
-            "stars": 2562
+            "stars": 2561
           }
         },
         {
@@ -1315,7 +1315,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-23T05:35:31.726Z",
+    "last_updated": "2026-05-24T05:56:57.348Z",
     "original_repository": "jakoch/awesome-composer",
     "source_repository": "v1nvn/enhansome-composer",
     "source_repository_description": null,
