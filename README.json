@@ -18,7 +18,7 @@
             "last_commit": "2026-05-21T19:50:51Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29417
+            "stars": 29418
           }
         },
         {
@@ -31,7 +31,7 @@
             "last_commit": "2026-05-21T19:50:51Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29417
+            "stars": 29418
           }
         },
         {
@@ -44,7 +44,7 @@
             "last_commit": "2026-05-21T19:50:51Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29417
+            "stars": 29418
           }
         },
         {
@@ -863,7 +863,7 @@
             "last_commit": "2023-10-02T12:33:45Z",
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5362
+            "stars": 5361
           }
         },
         {
@@ -876,7 +876,7 @@
             "last_commit": "2026-05-24T04:37:32Z",
             "owner": "maglnet",
             "repo": "ComposerRequireChecker",
-            "stars": 999
+            "stars": 998
           }
         },
         {
@@ -1239,7 +1239,7 @@
             "last_commit": "2026-04-29T16:06:01Z",
             "owner": "vtsykun",
             "repo": "packeton",
-            "stars": 523
+            "stars": 524
           }
         },
         {
@@ -1315,7 +1315,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-24T05:56:57.348Z",
+    "last_updated": "2026-05-25T06:21:50.200Z",
     "original_repository": "jakoch/awesome-composer",
     "source_repository": "v1nvn/enhansome-composer",
     "source_repository_description": null,
