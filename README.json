@@ -18,7 +18,7 @@
             "last_commit": "2026-05-21T19:50:51Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29418
+            "stars": 29421
           }
         },
         {
@@ -31,7 +31,7 @@
             "last_commit": "2026-05-21T19:50:51Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29418
+            "stars": 29421
           }
         },
         {
@@ -44,7 +44,7 @@
             "last_commit": "2026-05-21T19:50:51Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29418
+            "stars": 29421
           }
         },
         {
@@ -249,7 +249,7 @@
             "last_commit": "2026-05-14T01:43:46Z",
             "owner": "cweagans",
             "repo": "composer-patches",
-            "stars": 1695
+            "stars": 1694
           }
         },
         {
@@ -363,7 +363,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-05-20T20:15:57Z",
+            "last_commit": "2026-05-25T14:57:42Z",
             "owner": "drupal",
             "repo": "core-vendor-hardening",
             "stars": 17
@@ -462,7 +462,7 @@
             "last_commit": "2025-08-06T14:05:26Z",
             "owner": "clue",
             "repo": "graph-composer",
-            "stars": 937
+            "stars": 938
           }
         },
         {
@@ -472,7 +472,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-05-21T21:12:52Z",
+            "last_commit": "2026-05-26T05:29:05Z",
             "owner": "Ocramius",
             "repo": "PackageVersions",
             "stars": 3179
@@ -810,7 +810,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-05-21T13:43:57Z",
+            "last_commit": "2026-05-25T17:14:30Z",
             "owner": "move-elevator",
             "repo": "composer-translation-validator",
             "stars": 3
@@ -873,7 +873,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-05-24T04:37:32Z",
+            "last_commit": "2026-05-26T02:04:59Z",
             "owner": "maglnet",
             "repo": "ComposerRequireChecker",
             "stars": 998
@@ -1156,7 +1156,7 @@
             "last_commit": "2026-02-06T14:56:51Z",
             "owner": "repman-io",
             "repo": "repman",
-            "stars": 580
+            "stars": 579
           }
         },
         {
@@ -1315,7 +1315,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-25T06:21:50.200Z",
+    "last_updated": "2026-05-26T06:01:27.236Z",
     "original_repository": "jakoch/awesome-composer",
     "source_repository": "v1nvn/enhansome-composer",
     "source_repository_description": null,
