@@ -18,7 +18,7 @@
             "last_commit": "2026-05-21T19:50:51Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29421
+            "stars": 29423
           }
         },
         {
@@ -31,7 +31,7 @@
             "last_commit": "2026-05-21T19:50:51Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29421
+            "stars": 29423
           }
         },
         {
@@ -44,7 +44,7 @@
             "last_commit": "2026-05-21T19:50:51Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29421
+            "stars": 29423
           }
         },
         {
@@ -249,7 +249,7 @@
             "last_commit": "2026-05-14T01:43:46Z",
             "owner": "cweagans",
             "repo": "composer-patches",
-            "stars": 1694
+            "stars": 1695
           }
         },
         {
@@ -472,7 +472,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-05-26T05:29:05Z",
+            "last_commit": "2026-05-27T06:07:27Z",
             "owner": "Ocramius",
             "repo": "PackageVersions",
             "stars": 3179
@@ -810,7 +810,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-05-25T17:14:30Z",
+            "last_commit": "2026-05-26T21:47:41Z",
             "owner": "move-elevator",
             "repo": "composer-translation-validator",
             "stars": 3
@@ -873,7 +873,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-05-26T02:04:59Z",
+            "last_commit": "2026-05-27T05:57:50Z",
             "owner": "maglnet",
             "repo": "ComposerRequireChecker",
             "stars": 998
@@ -902,7 +902,7 @@
             "last_commit": "2026-05-20T10:12:55Z",
             "owner": "ergebnis",
             "repo": "composer-normalize",
-            "stars": 1108
+            "stars": 1109
           }
         },
         {
@@ -1315,7 +1315,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-26T06:01:27.236Z",
+    "last_updated": "2026-05-27T06:14:19.779Z",
     "original_repository": "jakoch/awesome-composer",
     "source_repository": "v1nvn/enhansome-composer",
     "source_repository_description": null,
