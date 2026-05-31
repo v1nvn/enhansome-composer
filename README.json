@@ -18,7 +18,7 @@
             "last_commit": "2026-05-29T12:26:28Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29434
+            "stars": 29439
           }
         },
         {
@@ -31,7 +31,7 @@
             "last_commit": "2026-05-29T12:26:28Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29434
+            "stars": 29439
           }
         },
         {
@@ -44,7 +44,7 @@
             "last_commit": "2026-05-29T12:26:28Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29434
+            "stars": 29439
           }
         },
         {
@@ -540,7 +540,7 @@
             "last_commit": "2026-05-29T17:59:07Z",
             "owner": "symfony",
             "repo": "flex",
-            "stars": 4225
+            "stars": 4224
           }
         },
         {
@@ -732,10 +732,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-05-28T13:39:51Z",
+            "last_commit": "2026-05-30T20:12:30Z",
             "owner": "CycloneDX",
             "repo": "cyclonedx-php-composer",
-            "stars": 85
+            "stars": 86
           }
         },
         {
@@ -863,7 +863,7 @@
             "last_commit": "2023-10-02T12:33:45Z",
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5362
+            "stars": 5363
           }
         },
         {
@@ -1239,7 +1239,7 @@
             "last_commit": "2026-04-29T16:06:01Z",
             "owner": "vtsykun",
             "repo": "packeton",
-            "stars": 525
+            "stars": 526
           }
         },
         {
@@ -1276,7 +1276,7 @@
             "last_commit": "2025-05-28T17:32:27Z",
             "owner": "project-satisfy",
             "repo": "satisfy",
-            "stars": 546
+            "stars": 547
           }
         },
         {
@@ -1315,7 +1315,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-30T05:43:11.786Z",
+    "last_updated": "2026-05-31T06:12:31.355Z",
     "original_repository": "jakoch/awesome-composer",
     "source_repository": "v1nvn/enhansome-composer",
     "source_repository_description": null,
