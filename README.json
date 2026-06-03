@@ -15,7 +15,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-05-29T12:26:28Z",
+            "last_commit": "2026-06-02T20:08:17Z",
             "owner": "composer",
             "repo": "composer",
             "stars": 29442
@@ -28,7 +28,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-05-29T12:26:28Z",
+            "last_commit": "2026-06-02T20:08:17Z",
             "owner": "composer",
             "repo": "composer",
             "stars": 29442
@@ -41,7 +41,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-05-29T12:26:28Z",
+            "last_commit": "2026-06-02T20:08:17Z",
             "owner": "composer",
             "repo": "composer",
             "stars": 29442
@@ -249,7 +249,7 @@
             "last_commit": "2026-05-29T01:43:50Z",
             "owner": "cweagans",
             "repo": "composer-patches",
-            "stars": 1699
+            "stars": 1700
           }
         },
         {
@@ -488,7 +488,7 @@
             "last_commit": "2022-01-17T14:15:51Z",
             "owner": "composer",
             "repo": "package-versions-deprecated",
-            "stars": 1525
+            "stars": 1524
           }
         },
         {
@@ -540,7 +540,7 @@
             "last_commit": "2026-05-29T17:59:07Z",
             "owner": "symfony",
             "repo": "flex",
-            "stars": 4224
+            "stars": 4222
           }
         },
         {
@@ -1315,7 +1315,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-02T06:37:11.170Z",
+    "last_updated": "2026-06-03T06:47:15.028Z",
     "original_repository": "jakoch/awesome-composer",
     "source_repository": "v1nvn/enhansome-composer",
     "source_repository_description": null,
