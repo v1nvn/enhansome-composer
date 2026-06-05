@@ -15,10 +15,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-06-03T20:36:56Z",
+            "last_commit": "2026-06-04T08:27:50Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29443
+            "stars": 29447
           }
         },
         {
@@ -28,10 +28,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-06-03T20:36:56Z",
+            "last_commit": "2026-06-04T08:27:50Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29443
+            "stars": 29447
           }
         },
         {
@@ -41,10 +41,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-06-03T20:36:56Z",
+            "last_commit": "2026-06-04T08:27:50Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29443
+            "stars": 29447
           }
         },
         {
@@ -246,10 +246,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-05-29T01:43:50Z",
+            "last_commit": "2026-06-05T01:43:37Z",
             "owner": "cweagans",
             "repo": "composer-patches",
-            "stars": 1700
+            "stars": 1701
           }
         },
         {
@@ -259,7 +259,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-05-18T06:44:50Z",
+            "last_commit": "2026-06-04T10:41:55Z",
             "owner": "vaimo",
             "repo": "composer-patches",
             "stars": 301
@@ -472,7 +472,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-05-30T00:37:04Z",
+            "last_commit": "2026-06-04T10:12:35Z",
             "owner": "Ocramius",
             "repo": "PackageVersions",
             "stars": 3179
@@ -540,7 +540,7 @@
             "last_commit": "2026-05-29T17:59:07Z",
             "owner": "symfony",
             "repo": "flex",
-            "stars": 4222
+            "stars": 4224
           }
         },
         {
@@ -628,7 +628,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-05-28T17:38:01Z",
+            "last_commit": "2026-06-04T15:32:46Z",
             "owner": "typisttech",
             "repo": "imposter-plugin",
             "stars": 157
@@ -810,7 +810,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-06-03T21:33:15Z",
+            "last_commit": "2026-06-05T05:39:51Z",
             "owner": "move-elevator",
             "repo": "composer-translation-validator",
             "stars": 3
@@ -873,10 +873,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-05-30T01:59:10Z",
+            "last_commit": "2026-06-05T06:11:33Z",
             "owner": "maglnet",
             "repo": "ComposerRequireChecker",
-            "stars": 1000
+            "stars": 1001
           }
         },
         {
@@ -889,7 +889,7 @@
             "last_commit": "2026-04-27T02:02:52Z",
             "owner": "composer-unused",
             "repo": "composer-unused",
-            "stars": 1681
+            "stars": 1680
           }
         },
         {
@@ -1239,7 +1239,7 @@
             "last_commit": "2026-04-29T16:06:01Z",
             "owner": "vtsykun",
             "repo": "packeton",
-            "stars": 527
+            "stars": 528
           }
         },
         {
@@ -1315,7 +1315,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-04T06:38:17.120Z",
+    "last_updated": "2026-06-05T06:16:48.427Z",
     "original_repository": "jakoch/awesome-composer",
     "source_repository": "v1nvn/enhansome-composer",
     "source_repository_description": null,
