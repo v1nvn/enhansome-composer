@@ -18,7 +18,7 @@
             "last_commit": "2026-06-04T08:27:50Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29447
+            "stars": 29449
           }
         },
         {
@@ -31,7 +31,7 @@
             "last_commit": "2026-06-04T08:27:50Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29447
+            "stars": 29449
           }
         },
         {
@@ -44,7 +44,7 @@
             "last_commit": "2026-06-04T08:27:50Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29447
+            "stars": 29449
           }
         },
         {
@@ -197,7 +197,7 @@
             "last_commit": "2026-02-04T10:45:32Z",
             "owner": "bamarni",
             "repo": "composer-bin-plugin",
-            "stars": 527
+            "stars": 528
           }
         },
         {
@@ -233,7 +233,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-05-21T21:00:23Z",
+            "last_commit": "2026-06-05T18:15:52Z",
             "owner": "netresearch",
             "repo": "composer-patches-plugin",
             "stars": 80
@@ -249,7 +249,7 @@
             "last_commit": "2026-06-05T01:43:37Z",
             "owner": "cweagans",
             "repo": "composer-patches",
-            "stars": 1701
+            "stars": 1702
           }
         },
         {
@@ -472,7 +472,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-06-04T10:12:35Z",
+            "last_commit": "2026-06-05T06:43:55Z",
             "owner": "Ocramius",
             "repo": "PackageVersions",
             "stars": 3179
@@ -563,7 +563,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-05-21T00:16:18Z",
+            "last_commit": "2026-06-05T22:12:57Z",
             "owner": "PHPCSStandards",
             "repo": "composer-installer",
             "stars": 598
@@ -810,7 +810,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-06-05T05:39:51Z",
+            "last_commit": "2026-06-05T13:13:59Z",
             "owner": "move-elevator",
             "repo": "composer-translation-validator",
             "stars": 3
@@ -863,7 +863,7 @@
             "last_commit": "2023-10-02T12:33:45Z",
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5364
+            "stars": 5365
           }
         },
         {
@@ -1315,7 +1315,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-05T06:16:48.427Z",
+    "last_updated": "2026-06-06T05:50:02.170Z",
     "original_repository": "jakoch/awesome-composer",
     "source_repository": "v1nvn/enhansome-composer",
     "source_repository_description": null,
