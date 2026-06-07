@@ -340,7 +340,7 @@
             "last_commit": "2025-11-21T14:57:12Z",
             "owner": "liborm85",
             "repo": "composer-vendor-cleaner",
-            "stars": 35
+            "stars": 34
           }
         },
         {
@@ -405,7 +405,7 @@
             "last_commit": "2022-12-03T08:11:28Z",
             "owner": "hirak",
             "repo": "prestissimo",
-            "stars": 6127
+            "stars": 6126
           }
         },
         {
@@ -540,7 +540,7 @@
             "last_commit": "2026-05-29T17:59:07Z",
             "owner": "symfony",
             "repo": "flex",
-            "stars": 4224
+            "stars": 4223
           }
         },
         {
@@ -732,7 +732,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-05-30T20:12:30Z",
+            "last_commit": "2026-06-06T20:12:29Z",
             "owner": "CycloneDX",
             "repo": "cyclonedx-php-composer",
             "stars": 86
@@ -889,7 +889,7 @@
             "last_commit": "2026-04-27T02:02:52Z",
             "owner": "composer-unused",
             "repo": "composer-unused",
-            "stars": 1680
+            "stars": 1679
           }
         },
         {
@@ -1315,7 +1315,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-06T05:50:02.170Z",
+    "last_updated": "2026-06-07T06:18:15.564Z",
     "original_repository": "jakoch/awesome-composer",
     "source_repository": "v1nvn/enhansome-composer",
     "source_repository_description": null,
