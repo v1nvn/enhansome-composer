@@ -233,7 +233,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-06-05T18:15:52Z",
+            "last_commit": "2026-06-08T04:34:45Z",
             "owner": "netresearch",
             "repo": "composer-patches-plugin",
             "stars": 80
@@ -405,7 +405,7 @@
             "last_commit": "2022-12-03T08:11:28Z",
             "owner": "hirak",
             "repo": "prestissimo",
-            "stars": 6126
+            "stars": 6127
           }
         },
         {
@@ -787,7 +787,7 @@
             "last_commit": "2026-03-19T07:38:51Z",
             "owner": "IonBazan",
             "repo": "composer-diff",
-            "stars": 186
+            "stars": 187
           }
         },
         {
@@ -863,7 +863,7 @@
             "last_commit": "2023-10-02T12:33:45Z",
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5365
+            "stars": 5366
           }
         },
         {
@@ -899,7 +899,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-06-01T08:48:04Z",
+            "last_commit": "2026-06-07T22:03:44Z",
             "owner": "ergebnis",
             "repo": "composer-normalize",
             "stars": 1110
@@ -1156,7 +1156,7 @@
             "last_commit": "2026-02-06T14:56:51Z",
             "owner": "repman-io",
             "repo": "repman",
-            "stars": 579
+            "stars": 580
           }
         },
         {
@@ -1315,7 +1315,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-07T06:18:15.564Z",
+    "last_updated": "2026-06-08T06:37:40.193Z",
     "original_repository": "jakoch/awesome-composer",
     "source_repository": "v1nvn/enhansome-composer",
     "source_repository_description": null,
