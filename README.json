@@ -18,7 +18,7 @@
             "last_commit": "2026-06-08T08:17:04Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29450
+            "stars": 29449
           }
         },
         {
@@ -31,7 +31,7 @@
             "last_commit": "2026-06-08T08:17:04Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29450
+            "stars": 29449
           }
         },
         {
@@ -44,7 +44,7 @@
             "last_commit": "2026-06-08T08:17:04Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29450
+            "stars": 29449
           }
         },
         {
@@ -249,7 +249,7 @@
             "last_commit": "2026-06-05T01:43:37Z",
             "owner": "cweagans",
             "repo": "composer-patches",
-            "stars": 1703
+            "stars": 1705
           }
         },
         {
@@ -540,7 +540,7 @@
             "last_commit": "2026-05-29T17:59:07Z",
             "owner": "symfony",
             "repo": "flex",
-            "stars": 4223
+            "stars": 4222
           }
         },
         {
@@ -810,7 +810,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-06-09T00:55:47Z",
+            "last_commit": "2026-06-10T02:52:13Z",
             "owner": "move-elevator",
             "repo": "composer-translation-validator",
             "stars": 3
@@ -1239,7 +1239,7 @@
             "last_commit": "2026-04-29T16:06:01Z",
             "owner": "vtsykun",
             "repo": "packeton",
-            "stars": 528
+            "stars": 529
           }
         },
         {
@@ -1315,7 +1315,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-09T06:04:17.363Z",
+    "last_updated": "2026-06-10T06:18:14.593Z",
     "original_repository": "jakoch/awesome-composer",
     "source_repository": "v1nvn/enhansome-composer",
     "source_repository_description": null,
