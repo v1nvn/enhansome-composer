@@ -18,7 +18,7 @@
             "last_commit": "2026-06-08T08:17:04Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29449
+            "stars": 29448
           }
         },
         {
@@ -31,7 +31,7 @@
             "last_commit": "2026-06-08T08:17:04Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29449
+            "stars": 29448
           }
         },
         {
@@ -44,7 +44,7 @@
             "last_commit": "2026-06-08T08:17:04Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29449
+            "stars": 29448
           }
         },
         {
@@ -249,7 +249,7 @@
             "last_commit": "2026-06-05T01:43:37Z",
             "owner": "cweagans",
             "repo": "composer-patches",
-            "stars": 1705
+            "stars": 1706
           }
         },
         {
@@ -405,7 +405,7 @@
             "last_commit": "2022-12-03T08:11:28Z",
             "owner": "hirak",
             "repo": "prestissimo",
-            "stars": 6127
+            "stars": 6126
           }
         },
         {
@@ -540,7 +540,7 @@
             "last_commit": "2026-05-29T17:59:07Z",
             "owner": "symfony",
             "repo": "flex",
-            "stars": 4222
+            "stars": 4223
           }
         },
         {
@@ -876,7 +876,7 @@
             "last_commit": "2026-06-05T06:11:33Z",
             "owner": "maglnet",
             "repo": "ComposerRequireChecker",
-            "stars": 1001
+            "stars": 1002
           }
         },
         {
@@ -1315,7 +1315,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-10T06:18:14.593Z",
+    "last_updated": "2026-06-11T06:43:34.996Z",
     "original_repository": "jakoch/awesome-composer",
     "source_repository": "v1nvn/enhansome-composer",
     "source_repository_description": null,
