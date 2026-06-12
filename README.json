@@ -15,10 +15,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-06-08T08:17:04Z",
+            "last_commit": "2026-06-11T19:15:31Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29448
+            "stars": 29450
           }
         },
         {
@@ -28,10 +28,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-06-08T08:17:04Z",
+            "last_commit": "2026-06-11T19:15:31Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29448
+            "stars": 29450
           }
         },
         {
@@ -41,10 +41,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-06-08T08:17:04Z",
+            "last_commit": "2026-06-11T19:15:31Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29448
+            "stars": 29450
           }
         },
         {
@@ -246,7 +246,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-06-05T01:43:37Z",
+            "last_commit": "2026-06-11T22:24:44Z",
             "owner": "cweagans",
             "repo": "composer-patches",
             "stars": 1706
@@ -363,7 +363,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-06-03T11:59:57Z",
+            "last_commit": "2026-06-11T10:02:15Z",
             "owner": "drupal",
             "repo": "core-vendor-hardening",
             "stars": 17
@@ -693,7 +693,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-05-17T15:55:22Z",
+            "last_commit": "2026-06-11T14:42:10Z",
             "owner": "mcaskill",
             "repo": "composer-plugin-exclude-files",
             "stars": 40
@@ -902,7 +902,7 @@
             "last_commit": "2026-06-07T22:03:44Z",
             "owner": "ergebnis",
             "repo": "composer-normalize",
-            "stars": 1110
+            "stars": 1111
           }
         },
         {
@@ -1315,7 +1315,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-11T06:43:34.996Z",
+    "last_updated": "2026-06-12T06:28:31.207Z",
     "original_repository": "jakoch/awesome-composer",
     "source_repository": "v1nvn/enhansome-composer",
     "source_repository_description": null,
