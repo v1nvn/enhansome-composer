@@ -15,10 +15,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-06-11T19:15:31Z",
+            "last_commit": "2026-06-12T11:26:34Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29450
+            "stars": 29454
           }
         },
         {
@@ -28,10 +28,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-06-11T19:15:31Z",
+            "last_commit": "2026-06-12T11:26:34Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29450
+            "stars": 29454
           }
         },
         {
@@ -41,10 +41,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-06-11T19:15:31Z",
+            "last_commit": "2026-06-12T11:26:34Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29450
+            "stars": 29454
           }
         },
         {
@@ -259,7 +259,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-06-04T10:41:55Z",
+            "last_commit": "2026-06-12T07:56:54Z",
             "owner": "vaimo",
             "repo": "composer-patches",
             "stars": 301
@@ -444,7 +444,7 @@
             "last_commit": "2026-05-28T12:58:04Z",
             "owner": "shipmonk-rnd",
             "repo": "composer-dependency-analyser",
-            "stars": 617
+            "stars": 618
           }
         },
         {
@@ -810,7 +810,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-06-10T02:52:13Z",
+            "last_commit": "2026-06-13T04:56:17Z",
             "owner": "move-elevator",
             "repo": "composer-translation-validator",
             "stars": 3
@@ -889,7 +889,7 @@
             "last_commit": "2026-04-27T02:02:52Z",
             "owner": "composer-unused",
             "repo": "composer-unused",
-            "stars": 1679
+            "stars": 1680
           }
         },
         {
@@ -1315,7 +1315,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-12T06:28:31.207Z",
+    "last_updated": "2026-06-13T06:11:34.748Z",
     "original_repository": "jakoch/awesome-composer",
     "source_repository": "v1nvn/enhansome-composer",
     "source_repository_description": null,
