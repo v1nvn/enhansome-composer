@@ -18,7 +18,7 @@
             "last_commit": "2026-06-12T11:26:34Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29454
+            "stars": 29457
           }
         },
         {
@@ -31,7 +31,7 @@
             "last_commit": "2026-06-12T11:26:34Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29454
+            "stars": 29457
           }
         },
         {
@@ -44,7 +44,7 @@
             "last_commit": "2026-06-12T11:26:34Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29454
+            "stars": 29457
           }
         },
         {
@@ -249,7 +249,7 @@
             "last_commit": "2026-06-11T22:24:44Z",
             "owner": "cweagans",
             "repo": "composer-patches",
-            "stars": 1706
+            "stars": 1707
           }
         },
         {
@@ -405,7 +405,7 @@
             "last_commit": "2022-12-03T08:11:28Z",
             "owner": "hirak",
             "repo": "prestissimo",
-            "stars": 6126
+            "stars": 6125
           }
         },
         {
@@ -732,7 +732,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-06-06T20:12:29Z",
+            "last_commit": "2026-06-13T20:12:28Z",
             "owner": "CycloneDX",
             "repo": "cyclonedx-php-composer",
             "stars": 86
@@ -810,7 +810,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-06-13T04:56:17Z",
+            "last_commit": "2026-06-14T02:48:59Z",
             "owner": "move-elevator",
             "repo": "composer-translation-validator",
             "stars": 3
@@ -954,7 +954,7 @@
             "last_commit": "2026-05-29T13:39:42Z",
             "owner": "composer",
             "repo": "xdebug-handler",
-            "stars": 2561
+            "stars": 2562
           }
         },
         {
@@ -1239,7 +1239,7 @@
             "last_commit": "2026-04-29T16:06:01Z",
             "owner": "vtsykun",
             "repo": "packeton",
-            "stars": 529
+            "stars": 530
           }
         },
         {
@@ -1315,7 +1315,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-13T06:11:34.748Z",
+    "last_updated": "2026-06-14T06:28:40.823Z",
     "original_repository": "jakoch/awesome-composer",
     "source_repository": "v1nvn/enhansome-composer",
     "source_repository_description": null,
